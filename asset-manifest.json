@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hny/static/css/main.e881eac3.css",
+    "main.js": "/hny/static/js/main.8c8a9dc4.js",
+    "static/js/787.390704f4.chunk.js": "/hny/static/js/787.390704f4.chunk.js",
+    "index.html": "/hny/index.html",
+    "main.e881eac3.css.map": "/hny/static/css/main.e881eac3.css.map",
+    "main.8c8a9dc4.js.map": "/hny/static/js/main.8c8a9dc4.js.map",
+    "787.390704f4.chunk.js.map": "/hny/static/js/787.390704f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e881eac3.css",
+    "static/js/main.8c8a9dc4.js"
+  ]
+}
